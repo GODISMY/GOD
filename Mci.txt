@@ -1,0 +1,1 @@
+warp://p2I108GA-T450D9IL-N5d6nS23@[2606:4700:d0::2d72:2e16:1c6c:c897]:859?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://162.159.192.72:988?ifp=10-20&ifps=20-60&ifp=5-10#Germany
